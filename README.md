@@ -3,5 +3,7 @@
     <img src="https://cdn.iconscout.com/icon/free/png-256/java-23-225999.png" alt="Java Icon" width="96" height="96">
   </a>
   <h2 align="left">Java</h2>
-  <p align="left">Java Programming (UCL)</p>
+  <p align="left">Java Programming</p>
+  <br>1. Java Work from UCL Module
+  <br>2. Random Project
 </p>
