@@ -5,5 +5,6 @@
   <h2 align="left">Java</h2>
   <p align="left">Java Programming</p>
   <br>1. Java Work from UCL Module
-  <br>2. Random Project
+  <p><p>- Chessboard Solver</p></p>
+  <br>2. Self Maze Solver
 </p>
