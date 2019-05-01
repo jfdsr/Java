@@ -8,5 +8,5 @@
   <ul>
     <li>Chessboard Solver</li>
   </ul>
-  <br>2. Self Project - Maze Solver
+  2. Self Project - Maze Solver
 </p>
